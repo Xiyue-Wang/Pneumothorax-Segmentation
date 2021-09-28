@@ -148,3 +148,14 @@ python stacking.py
 ### Leaderboard:
 - stage1: 0.8883
 - stage2: 0.8665
+## Reference
+If you find our work useful in your research or if you use parts of this code please consider citing our [paper](https://ieeexplore.ieee.org/document/9247293):
+
+```@article{wang2020automatic,
+  title={Automatic segmentation of pneumothorax in chest radiographs based on a two-stage deep learning method},
+  author={Wang, Xiyue and Yang, Sen and Lan, Jun and Fang, Yuqi and He, Jianhui and Wang, Minghui and Zhang, Jing and Han, Xiao},
+  journal={IEEE Transactions on Cognitive and Developmental Systems},
+  year={2020},
+  publisher={IEEE}
+} 
+```
