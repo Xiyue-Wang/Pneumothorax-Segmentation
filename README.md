@@ -1,4 +1,3 @@
-
 # SIIM-ACR Pneumothorax Segmentation
 
 ## Automatic segmentation of pneumothorax in chest radiographs based on a two-stage deep learning method
