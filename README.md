@@ -2,6 +2,8 @@
 
 ## Automatic segmentation of pneumothorax in chest radiographs based on a two-stage deep learning method
 
+[Journal Link](https://ieeexplore.ieee.org/document/9247293)
+
 # 2nd place solution 
 
 ## Model
